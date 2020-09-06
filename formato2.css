@@ -1,0 +1,12 @@
+IMG.imgright{
+	display:block;
+	float:right;
+	margin-left:30px;
+	margin-right:0;
+	border:none;
+}
+p{
+	font-family:"Comic sans Ms";
+	font-size:45px;
+	text-align:justify;
+}
